@@ -1,0 +1,66 @@
+html, body{
+	font-family: "Gilda Display", serif;
+
+}
+
+header{
+	background-color: #20d64a;
+	padding: 40px;
+	margin: 0 auto;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+	text-align: center;
+}
+
+header img{
+	display: block;
+	width: 50%;
+	border-radius: 50%;
+	border: 30px solid #ffa5fc;
+margin: 0 auto;	
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+}
+
+p.caption{
+	font-size: 10px;
+	color: lightgrey;
+	font-style: italic;
+}
+
+ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	color: pink;
+	text-decoration: none;
+}
+
+footer{
+	color: grey;
+	margin-top: 20px;
+	padding: 40px 20px;
+}
+
+footer ul{
+		text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 10px
+}
