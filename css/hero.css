@@ -19,7 +19,7 @@ header img{
 	display: block;
 	width: 50%;
 	border-radius: 50%;
-	border: 30px solid #ffa5fc;
+	border: attr(width) solid #ffa5fc;
 margin: 0 auto;	
 }
 
